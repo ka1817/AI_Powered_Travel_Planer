@@ -1,0 +1,9 @@
+langchain
+langchain_groq
+langchain-community 
+fastapi
+uvicorn 
+Pydantic
+langchain-huggingface 
+python-dotenv
+streanlit
